@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tablas en HTML para el Ejercicio</title>
+    </head>
+    <body>
+        <h3>Tabla</h3>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publiación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+        <tr>
+            <td>Revolucion</td>
+            <td>Pérez Reverte</td>
+            <td>2022</td>
+            <td>https://www.amazon.es/Revoluci%C3%B3n-novela-Hisp%C3%A1nica-Arturo-P%C3%A9rez-Reverte/dp/8420461466</td>
+        </tr>
+        <tr>
+            <td>El Mundo está en venta</td>
+            <td>Javier Blas</td>
+            <td>2022</td>
+            <td>https://www.amazon.es/El-mundo-est%C3%A1-venta-PENINSULA/dp/8411000753/ref=asc_df_8411000753/?tag=googshopes-21&linkCode=df0&hvadid=527801998718&hvpos=&hvnetw=g&hvrand=884752520561915300&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047048&hvtargid=pla-1641521722256&psc=1</td>
+        </tr>
+        <tr>
+            <td>El Euro y la batalla de las ideas</td>
+            <td>Markus K.Brunenermeier</td>
+            <td>2017</td>
+            <td>https://www.amazon.es/euro-batalla-las-ideas-Traducci%C3%B3n/dp/8423428842/ref=sr_1_1?keywords=el+euro+y+la+batalla+de+las+ideas&qid=1668635288&qu=eyJxc2MiOiIwLjg4IiwicXNhIjoiMC45MiIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=el+euro+y+la+b%2Cstripbooks%2C140&sr=1-1</td>
+        </tr>
+        </table>
+    </body>
